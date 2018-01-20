@@ -29,8 +29,8 @@ LINKS = (('Test Maker Project Site', 'http://www.calistostudios.com'),
          ('Github Page', 'https://github.com/melvyniandrag'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/melvyniandrag'),
+          ('linkedin', 'https://www.linkedin.com/in/melvyn-ian-drag-374613107/'),)
 
 DEFAULT_PAGINATION = 10
 
