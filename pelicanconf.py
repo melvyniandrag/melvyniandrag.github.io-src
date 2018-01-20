@@ -5,6 +5,9 @@ from __future__ import unicode_literals
 AUTHOR = 'melvyn'
 SITENAME = 'Melvyn\'s blog'
 SITEURL = 'https://melvyniandrag.github.io'
+SITETITLE = 'Foo Bar'
+SITESUBTITLE = 'Web Developer'
+SITEDESCRIPTION = 'Foo Bar\'s Thoughts and Writings'
 
 PATH = 'content'
 
