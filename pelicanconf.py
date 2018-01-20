@@ -25,8 +25,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Test Maker Project Site', 'http://www.calistostudios.com'),
          ('Tensorflow Project Website', 'http://python.org/'),
-         ('Resume', 'http://jinja.pocoo.org/'),
-         ('Github Page', 'https://github.com/melvyniandrag'),)
+         ('Resume', 'http://jinja.pocoo.org/'),)
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/melvyniandrag'),
