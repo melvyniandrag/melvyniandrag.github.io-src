@@ -30,7 +30,8 @@ LINKS = (('Test Maker Project Site', 'http://www.calistostudios.com'),
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/melvyniandrag'),
-          ('linkedin', 'https://www.linkedin.com/in/melvyn-ian-drag-374613107/'),)
+          ('linkedin', 'https://www.linkedin.com/in/melvyn-ian-drag-374613107/'),
+          ('twitter', 'https://twitter.com/MelvynDrag'),)
 
 DEFAULT_PAGINATION = 10
 
