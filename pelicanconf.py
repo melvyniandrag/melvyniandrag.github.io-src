@@ -20,10 +20,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Test Maker Project Site', 'http://www.calistostudios.com'),
+         ('Tensorflow Project Website', 'http://python.org/'),
+         ('Resume', 'http://jinja.pocoo.org/'),
+         ('Github Page', 'https://github.com/melvyniandrag'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
