@@ -23,8 +23,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Test Maker Project Site', 'http://www.calistostudios.com'),
-         ('Tensorflow Project Website', 'http://python.org/'),
+LINKS = (('TestMakerSite', 'http://www.calistostudios.com'),
+         ('DoggyMcDogFace', 'http://www.doggymcdogface.com/'),
          ('Resume', 'http://jinja.pocoo.org/'),)
 
 # Social widget
