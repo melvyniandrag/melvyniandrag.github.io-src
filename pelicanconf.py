@@ -24,7 +24,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('TestMakerSite', 'http://www.calistostudios.com'),
-         ('DoggyMcDogFace', 'http://www.doggymcdogface.com/'),
+         ('DoggyMcDogFace', 'http://www.doggymcdogface.info/'),
          ('Resume', 'http://jinja.pocoo.org/'),)
 
 # Social widget
