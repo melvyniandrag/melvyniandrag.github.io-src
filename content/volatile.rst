@@ -5,9 +5,9 @@ What the heck is volatile anyway?
 :modified: 2018-03-16
 :tags: embedded c++ c
 :category: embedded
-:slug: what is volatile?
+:slug: what is volatile
 :authors: Melvyn Drag
-:summary: What's the point of the volatile keyword?
+:summary: What's the point of the volatile keyword
 
 I've been doing some embedded development at work and on hobby rpi and arduino projects. Seems like I ought to figure out what the point of the volatile keyword is at this stage in the game. Here's the reference I found about it: `volatileReference <https://www.embedded.com/electronics-blogs/beginner-s-corner/4023801/Introduction-to-the-Volatile-Keyword/>`_ volatile reference.
 

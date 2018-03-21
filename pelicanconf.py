@@ -38,8 +38,8 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Theme
-#THEME = "/home/melvyn/Desktop/website/pelican-themes/Flex"
-THEME = "/home/melvyn/pelican-themes/Flex"
+THEME = "/home/melvyn/Desktop/website/pelican-themes/Flex"
+#THEME = "/home/melvyn/pelican-themes/Flex"
 
 # Flex config stuff
 SITELOGO = SITEURL + '/theme/images/profile.png'
