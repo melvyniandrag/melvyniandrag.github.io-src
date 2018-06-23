@@ -42,4 +42,4 @@ THEME = "/home/melvyn/Desktop/website/pelican-themes/Flex"
 #THEME = "/home/melvyn/pelican-themes/Flex"
 
 # Flex config stuff
-SITELOGO = SITEURL + '/theme/images/profile.png'
+SITELOGO = SITEURL + '/theme/img/profile.png'
